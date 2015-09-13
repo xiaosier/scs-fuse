@@ -3,8 +3,8 @@
 
 # 安装
 yum install fuse.x86_64 fuse-devel.x86_64
-pip install fuse-python
-pip install scs-sdk
+
+pip install fuse-python scs-sdk
 
 修改 online.py中的
 ```
